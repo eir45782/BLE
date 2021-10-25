@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">POC Speed Sensor</string>
+    <string name="button_scan">Scan</string>
+    <string name="textview_main_version">v0.0.9</string>
+    <string name="textview_cd_version">cd.v0.0.2</string>
+    <string name="textview_scan_ing">Searching...</string>
+    <string name="button_senddata">Send</string>
+    <string name="auto_run">Auto run</string>
+    <string name="bicycle_demo">Bicycle Demo</string>
+    <string name="todo">TODO</string>
+    <string name="non_auto">Non-Auto</string>
+</resources>
